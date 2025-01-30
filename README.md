@@ -1,5 +1,8 @@
 # Sentiment-Analysis
 
+![image](https://github.com/user-attachments/assets/c8d3a8e2-698a-4e76-b97e-3228bce1209c)
+
+
 ## Project Workflow
 
 ### The project consists of three main steps:
