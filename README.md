@@ -1,7 +1,5 @@
 # Sentiment-Analysis
 
-(https://github.com/Nargis45/Sentiment-Analysis/blob/main/Recording%202025-01-30%20174404.mp4)
-
 ## Project Workflow
 
 ### The project consists of three main steps:
