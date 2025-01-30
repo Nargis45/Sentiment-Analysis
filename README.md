@@ -48,6 +48,6 @@ Pandas: Data manipulation and processing
 
 Streamlit: Web application framework for data visualization
 
-Conclusion
+**Conclusion**
 
 This project demonstrates how to collect YouTube comments, analyze their sentiment, and visualize results interactively. The combination of APIs, NLP, and web development makes it a powerful and insightful tool for understanding audience feedback.
