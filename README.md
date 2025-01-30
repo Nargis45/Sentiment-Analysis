@@ -28,12 +28,6 @@ It visualizes the sentiment analysis results, displaying positive, neutral, and 
 
 The UI is designed using HTML and CSS within the Streamlit framework to provide a seamless experience.
 
-<b>Installation & Setup</b>
-
-To run the project locally, follow these steps:
-
-Ensure you have Python installed along with the required dependencies.
-
 **Usage**
 
 Fetch comments using the YouTube API script (yt_api.ipynb).
