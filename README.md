@@ -1,5 +1,7 @@
 # Sentiment-Analysis
 
+[Project Demo Video](Recording 2025-01-30 174404.mp4)
+
 ## Project Workflow
 
 ### The project consists of three main steps:
